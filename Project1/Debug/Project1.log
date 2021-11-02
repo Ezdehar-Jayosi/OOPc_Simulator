@@ -1,0 +1,48 @@
+﻿  MyForm.cpp
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\Router.h(152,1): warning C4150: deletion of pointer to incomplete type 'Router::my_mutex'; no destructor called
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\Router.h(27): message : see declaration of 'Router::my_mutex'
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\Router.h(153,1): warning C4150: deletion of pointer to incomplete type 'Router::my_mutex'; no destructor called
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\Router.h(27): message : see declaration of 'Router::my_mutex'
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\Router.h(154,1): warning C4150: deletion of pointer to incomplete type 'Router::my_mutex'; no destructor called
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\Router.h(27): message : see declaration of 'Router::my_mutex'
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\Router.h(155,1): warning C4150: deletion of pointer to incomplete type 'Router::my_mutex'; no destructor called
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\Router.h(27): message : see declaration of 'Router::my_mutex'
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\Router.h(156,1): warning C4150: deletion of pointer to incomplete type 'Router::my_mutex'; no destructor called
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\Router.h(27): message : see declaration of 'Router::my_mutex'
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\Router.h(157,1): warning C4150: deletion of pointer to incomplete type 'Router::my_mutex'; no destructor called
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\Router.h(27): message : see declaration of 'Router::my_mutex'
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\Router.h(158,1): warning C4150: deletion of pointer to incomplete type 'Router::packets_available_cond'; no destructor called
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\Router.h(38): message : see declaration of 'Router::packets_available_cond'
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\Unit.h(109,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\Unit.h(110,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\Unit.h(182,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\SOC.h(47,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\SOC.h(48,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\SOC.h(57,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\SOC.h(58,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\SOC.h(70,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\SOC.h(71,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\MyForm.h(433,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\MyForm.h(435,105): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\MyForm.h(435,77): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\MyForm.h(438,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\MyForm.h(481,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\MyForm.h(591,104): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\MyForm.h(591,77): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\MyForm.h(705,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\MyForm.h(706,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\MyForm.h(726,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\MyForm.h(727,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\MyForm.h(746,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\MyForm.h(747,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\MyForm.h(771,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\MyForm.h(772,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\MyForm.h(828,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\MyForm.h(829,107): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\MyForm.h(829,79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\MyForm.h(832,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\win10\Desktop\Project1 (2)\Project1\Project1\MyForm.cpp : warning C4793: 'Unit::`vcall'{0}'': function compiled as native:
+  	non-clrcall vcall thunks must be compiled as native
+  MyForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project1.vcxproj -> C:\Users\win10\Desktop\Project1 (2)\Project1\Debug\Project1.exe
